@@ -1,0 +1,54 @@
+a:link{
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+
+
+
+body{
+    background-color:  brown;
+}
+li{
+    float: left;
+    padding: 15px;
+
+}
+h1{
+    color:white;
+
+}
+h2{
+    color:white
+}
+h3{
+    color: white;
+}
+p{
+    color:white;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
+.left{
+    width:50%;
+    color: white;
+}
+.right{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+a:hover{
+    color:yellow;
+
+}
+.nav{
+    text-align: right;
+}
+
+
+
